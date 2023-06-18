@@ -1,4 +1,5 @@
 import logo from './logo.svg';
+//Importing CSS from differentt file
 import './App.css';
 
 function App() {
