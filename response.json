@@ -1,0 +1,84 @@
+{
+    "status": "ok",
+    "totalResults": 6,
+    "articles": [
+      {
+        "source": {
+          "id": "abc-news",
+          "name": "ABC News"
+        },
+        "author": "Jon Haworth",
+        "title": "Former USC football player arrested after being accused of raping 2 women",
+        "description": "“Sexual assault is a heinous crime that cannot be tolerated.”",
+        "url": "https://abcnews.go.com/US/former-usc-football-player-arrested-after-accused-raping/story?id=99925834",
+        "urlToImage": "https://s.abcnews.com/images/US/police-lights-rf-gty-200410_hpMain_16x9_992.jpg",
+        "publishedAt": "2023-06-08T11:14:31Z",
+        "content": "A former USC college football player has been charged with raping two women in the past three years, according to the Los Angeles County District Attorneys Office.\r\nThe suspect, 22-year-old Joshua Fr… [+1510 chars]"
+      },
+      {
+        "source": {
+          "id": "four-four-two",
+          "name": "FourFourTwo"
+        },
+        "author": "Ryan Dabbs",
+        "title": "Lionel Messi reveals key reasons for joining Inter Miami despite wanting 'dream' Barcelona return",
+        "description": "The Argentine has opened up on the sensational move which has surprised the footballing community",
+        "url": "https://www.fourfourtwo.com/news/lionel-messi-reveals-key-reasons-for-joining-inter-miami-despite-wanting-dream-barcelona-return",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/2m82UboLysMofx3eZK2dDh-1200-80.jpg",
+        "publishedAt": "2023-06-08T11:00:41Z",
+        "content": "Lionel Messi has opened up on the reasons behind why he's joining Inter Miami on a free transfer this summer, rather than make a sensational return to Barcelona which was his \"dream\".\r\nFollowing two … [+2220 chars]"
+      },
+      {
+        "source": {
+          "id": "independent",
+          "name": "Independent"
+        },
+        "author": "Miguel Delaney",
+        "title": "First golf, now football? Saudi Arabia’s grand plan and the 72 hours that changed everything",
+        "description": "The sportswashing scheme took another step forward with the LIV Golf-PGA merger but Saudi Arabia has bigger plans, writes Miguel Delaney",
+        "url": "http://www.independent.co.uk/sport/football/messi-saudi-arabia-liv-pga-golf-sportswashing-b2353242.html",
+        "urlToImage": "https://static.independent.co.uk/2023/06/07/17/GettyImages-1457749826.jpg?quality=75&width=1200&auto=webp",
+        "publishedAt": "2023-06-08T07:37:54Z",
+        "content": "Sign up to Miguel Delaneys Reading the Game newsletter sent straight to your inbox for free\r\nSign up to Miguels Delaneys free weekly newsletter \r\nIf you want a little insight into just how much the s… [+12035 chars]"
+      },
+      {
+        "source": {
+          "id": "talksport",
+          "name": "TalkSport"
+        },
+        "author": "161385360554578",
+        "title": "West Ham celebrate Europa Conference League glory, Lionel Messi confirms Inter Miami move",
+        "description": "talkSPORT.com brings you all the latest football news, views and transfer gossip from the Premier League and beyond. Top stories: West Ham celebrate Europa Conference League victoryDeclan Rice give…",
+        "url": "https://talksport.com/football/1445673/football-transfers-live-west-ham-lionel-messi/",
+        "urlToImage": "https://talksport.com/wp-content/uploads/sites/5/2023/06/DK-TALKSPORT-BLOG-COM-8TH-MAY.jpg?strip=all&quality=100&w=1500&h=1000&crop=1",
+        "publishedAt": "2023-06-08T07:20:41Z",
+        "content": "Lionel Messi has announced he is to join Major League Soccer side Inter Miami.\r\nThe 35-year-old Argentina forward had been strongly linked with a move to Saudi Arabian club Al Hilal, to join a league… [+1496 chars]"
+      },
+      {
+        "source": {
+          "id": "four-four-two",
+          "name": "FourFourTwo"
+        },
+        "author": "Mark White",
+        "title": "The greatest football shirt of all time is set to make a return: for one night only",
+        "description": "Denmark and Hummel inspired the world in 1986 when they wore a shirt that would transcend time and fashion: now, the Danes are to don the design one more time",
+        "url": "https://www.fourfourtwo.com/news/the-greatest-football-shirt-of-all-time-is-set-to-make-a-return-for-one-night-only",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/2nX2mW9ZQ2BVwQXorfdEP4-1200-80.jpg",
+        "publishedAt": "2023-06-07T17:00:00Z",
+        "content": "Denmark's 1986 Hummel World Cup shirt is the greatest of all time – and now it's set for a grand return to the pitch.\r\nLast year, FFT ranked the Hummel effort from '86 as the best kit ever, ahead of … [+1807 chars]"
+      },
+      {
+        "source": {
+          "id": "espn-cric-info",
+          "name": "ESPN Cric Info"
+        },
+        "author": null,
+        "title": "Five famous people (and one cat) you didn't know have ESPNcricinfo profiles | ESPNcricinfo.com",
+        "description": "Why do a footballer, a Nobel laureate and a prime minister (no, not Imran Khan) find themselves in the ESPNcricinfo player database? | ESPNcricinfo.com",
+        "url": "http://www.espncricinfo.com/story/_/id/29102695/five-famous-people-one-cat-know-espncricinfo-profiles",
+        "urlToImage": "https://a.espncdn.com/i/cricket/cricinfo/1221668_1296x1296.gif",
+        "publishedAt": "2020-04-27T07:20:43Z",
+        "content": "Why do a cat, a footballer, a Nobel laureate and a prime minister find themselves in the ESPNcricinfo database? Here are six player profiles you wouldn't have expected we had.\r\nPeter the catThe only … [+5504 chars]"
+      }
+    ]
+  } 
